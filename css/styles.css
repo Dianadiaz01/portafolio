@@ -70,7 +70,9 @@ a:hover {
 }
 
 .img-profile {
-  border-radius: 100px;
+  border-radius: 50%;
+  width:278px;
+  height: 278px;
 }
 
 .img-icon {
@@ -91,6 +93,10 @@ a:hover {
 
 .carousel-btn {
   padding: 15%;
+}
+
+.project-description {
+  text-align: justify;
 }
 
 /* -------------------------Footer Section -------------------------*/
